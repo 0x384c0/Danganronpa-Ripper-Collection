@@ -11,7 +11,7 @@ This is the set of scripts, that I create for myself to facilitate the extractio
     - have Windows OS
     - have 80-100 GB free space on HDD
     - [download](https://www.python.org/ftp/python/2.7.14/python-2.7.14.amd64.msi) and install python 2.7
-    - after installing python [open command line](https://www.digitalcitizen.life/7-ways-launch-command-prompt-windows-7-windows-8) and type  ```pip install Pillow```
+    - after installing python [open command line](https://www.digitalcitizen.life/7-ways-launch-command-prompt-windows-7-windows-8) and type  ```python -m pip install Pillow```
     - [download](https://github.com/0x384c0/Danganronpa-Ripper-Collection/releases) archive of this repo and extract it to somewhere 
     - [open](https://www.computerhope.com/issues/ch001675.htm) ```1_drv3_extract_from_cpk.cmd``` with text editor and replace path to .cpk files with yours. For example ```SET ARCHIVES_DIR="C:\Program Files\Danganronpa V3 Killing Harmony\data\win"``` Save changes.
 
